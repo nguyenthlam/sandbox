@@ -1,2 +1,2 @@
 # sandbox
-A sandbox for testing different ideas.
+A private sandbox for testing different ideas.
